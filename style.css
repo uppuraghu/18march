@@ -1,0 +1,103 @@
+.md{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(233, 232, 239, 0.94);
+    border: 5px solid rgb(1, 0, 7);
+    border-radius: 5000px ; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cd{
+    height:350px;
+    width: 350px;
+    background-color: rgba(227, 228, 220, 0.842);
+    border: 5px solid rgba(227, 228, 220, 0.842);
+    border-radius:4000px  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.dd{
+    height:300px;
+    width: 300px;
+    background-color:  rgb(1, 0, 8);
+    border: 5px solid  rgba(11, 0, 8, 0.901);
+    border-radius:3000px  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.xx{
+    height: 250px;
+    width: 250px;
+    background-color: rgba(11, 0, 8, 0.901);
+    border: 5px solid rgba(11, 0, 8, 0.901);
+    border-radius: 2000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-border-radius: 2000px;
+    -moz-border-radius: 2000px;
+    -ms-border-radius: 2000px;
+    -o-border-radius: 2000px;
+}  
+.qq{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(10, 32, 231);
+    border: 5px solid rgb(10, 32, 231);
+    border-radius: 1000px;
+    -webkit-border-radius: 1000px;
+    -moz-border-radius: 1000px;
+    -ms-border-radius: 1000px;
+    -o-border-radius: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.mm{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(10, 32, 231);
+    border: 5px solid rgb(10, 32, 231);
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    -ms-border-radius: 500px;
+    -o-border-radius: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ii{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(237, 9, 9);
+    border: 5px solid rgb(237, 9, 9);
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    -ms-border-radius: 500px;
+    -o-border-radius: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ll{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(216, 243, 14);
+    border: 5px solid rgb(222, 237, 9);
+    border-radius: 250px;
+    -webkit-border-radius: 250px;
+    -moz-border-radius: 250px;
+    -ms-border-radius: 250px;
+    -o-border-radius: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
